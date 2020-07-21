@@ -1,0 +1,9 @@
+com\sample\quotes\rowmapper\UserRowMapper.class
+com\sample\quotes\model\Quote.class
+com\sample\quotes\rowmapper\QuoteRowMapper.class
+com\sample\quotes\dao\impl\QuotesDaoImpl.class
+com\sample\quotes\model\User.class
+com\sample\quotes\QuotesServicesApplication.class
+com\sample\quotes\service\QuotesService.class
+com\sample\quotes\dao\QuotesDao.class
+com\sample\quotes\impl\QuotesServiceImpl.class
